@@ -1,0 +1,23 @@
+{
+  "rows_total_after_filter": 13827,
+  "class_counts": {
+    "senior": 8327,
+    "junior": 4704,
+    "middle": 796
+  },
+  "prepared_only": false,
+  "label_reason_counts": {
+    "experience_ge_6": 4964,
+    "experience_lt_2": 3592,
+    "position_keyword_senior": 3038,
+    "position_keyword_junior": 1112,
+    "experience_2_6": 731,
+    "position_keyword_senior_phrase": 325,
+    "position_keyword_middle": 65
+  },
+  "report_summary": {
+    "accuracy": 0.9685466377440347,
+    "macro_f1": 0.9387034570262576,
+    "weighted_f1": 0.9692944374352113
+  }
+}
